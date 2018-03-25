@@ -12,4 +12,8 @@
     <string name="hint_confirm_password">Confirmar Contraseña</string>
     <string name="text_button_createAccount">Unete</string>
     <string name="toolbar_tittle_createAccount">Crear cuenta</string>
+    <string name="username_card">Uriel Ramirez</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card">4 dias</string>
+    <string name="likenumber_card">10 me gusta</string>
 </resources>
