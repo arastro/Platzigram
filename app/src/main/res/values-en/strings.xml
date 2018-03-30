@@ -15,4 +15,7 @@
     <string name="firstword_card">Do</string>
     <string name="timecard_card">4 dias</string>
     <string name="likenumber_card">10 me gusta</string>
+    <string name="search_bottonbar">Search</string>
+    <string name="home_bottonbar">Home</string>
+    <string name="profile_bottonbar">Profile</string>
 </resources>
