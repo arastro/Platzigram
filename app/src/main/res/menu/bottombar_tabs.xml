@@ -4,17 +4,16 @@
     |<item
      android:id="@+id/search"
      android:icon="@drawable/ic_search"
-     android:title="@strings/search_bottonbar"/>
+     android:title="Buscar"/>
 
     <item
         android:id="@+id/home"
         android:icon="@drawable/ic_home"
-        android:title="@strings/home_bottonbar"/>
+        android:title="Inicio"/>
 
     <item
         android:id="@+id/profile"
         android:icon="@drawable/ic_action_user"
-        android:title="@strings/profile_bottonbar"/>
-
+        android:title="perfil"/>
 
 </menu>
